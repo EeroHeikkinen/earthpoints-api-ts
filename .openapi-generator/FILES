@@ -1,0 +1,16 @@
+.openapi-generator-ignore
+apis/DefaultApi.ts
+apis/index.ts
+index.ts
+models/ClientCredentialsDto.ts
+models/ClientCredentialsResponseDto.ts
+models/CreatePlatformConnectionDto.ts
+models/CreatePointEventDto.ts
+models/CreatePointEventResponseDto.ts
+models/CreateUserDto.ts
+models/PointEvent.ts
+models/UpdatePointEventDto.ts
+models/User.ts
+models/UserFromExternalPlatformDataDto.ts
+models/index.ts
+runtime.ts
